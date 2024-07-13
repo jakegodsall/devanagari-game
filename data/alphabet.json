@@ -1,0 +1,260 @@
+[
+  {
+    "latin": "a",
+    "devanagari": "अ",
+    "audio": "a.wav",
+    "tier": 1
+  },
+  {
+    "latin": "aa",
+    "devanagari": "आ",
+    "audio": "aa.wav",
+    "tier": 1
+  },
+  {
+    "latin": "i",
+    "devanagari": "इ",
+    "audio": "i.wav",
+    "tier": 1
+  },
+  {
+    "latin": "ii",
+    "devanagari": "ई",
+    "audio": "ii.wav",
+    "tier": 1
+  },
+  {
+    "latin": "u",
+    "devanagari": "उ",
+    "audio": "u.wav",
+    "tier": 1
+  },
+  {
+    "latin": "uu",
+    "devanagari": "ऊ",
+    "audio": "uu.wav",
+    "tier": 1
+  },
+  {
+    "latin": "e",
+    "devanagari": "ए",
+    "audio": "e.wav",
+    "tier": 1
+  },
+  {
+    "latin": "ai",
+    "devanagari": "ऐ",
+    "audio": "ai.wav",
+    "tier": 1
+  },
+  {
+    "latin": "o",
+    "devanagari": "ओ",
+    "audio": "o.wav",
+    "tier": 1
+  },
+  {
+    "latin": "au",
+    "devanagari": "औ",
+    "audio": "au.wav",
+    "tier": 1
+  },
+  {
+    "latin": "ka",
+    "devanagari": "क",
+    "audio": "ka.wav",
+    "tier": 1
+  },
+  {
+    "latin": "kha",
+    "devanagari": "ख",
+    "audio": "kha.wav",
+    "tier": 1
+  },
+  {
+    "latin": "ga",
+    "devanagari": "ग",
+    "audio": "ga.wav",
+    "tier": 2
+  },
+  {
+    "latin": "gha",
+    "devanagari": "घ",
+    "audio": "gha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "nga",
+    "devanagari": "ङ",
+    "audio": "nga.wav",
+    "tier": 2
+  },
+  {
+    "latin": "cha",
+    "devanagari": "च",
+    "audio": "cha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "chha",
+    "devanagari": "छ",
+    "audio": "chha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ja",
+    "devanagari": "ज",
+    "audio": "ja.wav",
+    "tier": 2
+  },
+  {
+    "latin": "jha",
+    "devanagari": "झ",
+    "audio": "jha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "nya",
+    "devanagari": "ञ",
+    "audio": "nya.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ta",
+    "devanagari": "ट",
+    "audio": "ta.wav",
+    "tier": 2
+  },
+  {
+    "latin": "tha",
+    "devanagari": "ठ",
+    "audio": "tha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "da",
+    "devanagari": "ड",
+    "audio": "da.wav",
+    "tier": 2
+  },
+  {
+    "latin": "dha",
+    "devanagari": "ढ",
+    "audio": "dha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "na",
+    "devanagari": "ण",
+    "audio": "na.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ta",
+    "devanagari": "त",
+    "audio": "ta.wav",
+    "tier": 2
+  },
+  {
+    "latin": "tha",
+    "devanagari": "थ",
+    "audio": "tha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "da",
+    "devanagari": "द",
+    "audio": "da.wav",
+    "tier": 2
+  },
+  {
+    "latin": "dha",
+    "devanagari": "ध",
+    "audio": "dha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "na",
+    "devanagari": "न",
+    "audio": "na.wav",
+    "tier": 2
+  },
+  {
+    "latin": "pa",
+    "devanagari": "प",
+    "audio": "pa.wav",
+    "tier": 2
+  },
+  {
+    "latin": "pha",
+    "devanagari": "फ",
+    "audio": "pha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ba",
+    "devanagari": "ब",
+    "audio": "ba.wav",
+    "tier": 2
+  },
+  {
+    "latin": "bha",
+    "devanagari": "भ",
+    "audio": "bha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ma",
+    "devanagari": "म",
+    "audio": "ma.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ya",
+    "devanagari": "य",
+    "audio": "ya.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ra",
+    "devanagari": "र",
+    "audio": "ra.wav",
+    "tier": 2
+  },
+  {
+    "latin": "la",
+    "devanagari": "ल",
+    "audio": "la.wav",
+    "tier": 2
+  },
+  {
+    "latin": "va",
+    "devanagari": "व",
+    "audio": "va.wav",
+    "tier": 2
+  },
+  {
+    "latin": "sha",
+    "devanagari": "श",
+    "audio": "sha.wav",
+    "tier": 2
+  },
+  {
+    "latin": "sha",
+    "devanagari": "ष",
+    "audio": "sha2.wav",
+    "tier": 2
+  },
+  {
+    "latin": "sa",
+    "devanagari": "स",
+    "audio": "sa.wav",
+    "tier": 2
+  },
+  {
+    "latin": "ha",
+    "devanagari": "ह",
+    "audio": "ha.wav",
+    "tier": 2
+  }
+]
